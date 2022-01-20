@@ -5,7 +5,7 @@
 
 <img src="https://i.imgur.com/t1AgYU4.png"/>
 
-<img src="blob:https://imgur.com/2af6e8be-fe97-4ef3-acd9-956a768b1afe"/>
+<img src="https://i.imgur.com/YsCYaFW.png"/>
 
 <p align="center">Tecnologias usadas <br/>
  -React <br/>
